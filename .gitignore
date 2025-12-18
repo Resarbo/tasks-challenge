@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/Back/ManagementTaskApi/.vs/ManagementTaskApi.slnx
+/Back/ManagementTaskApi/ManagementTaskApi/obj
+/Back/ManagementTaskApi/ManagementTaskApplication/obj
+/Back/ManagementTaskApi/ManagementTaskDomain/obj
+/Back/ManagementTaskApi/ManagementTaskInfraestructure/obj
