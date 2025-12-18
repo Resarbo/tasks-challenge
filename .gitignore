@@ -7,3 +7,9 @@
 /Back/ManagementTaskApi/ManagementTaskApplication/obj
 /Back/ManagementTaskApi/ManagementTaskDomain/obj
 /Back/ManagementTaskApi/ManagementTaskInfraestructure/obj
+/Back/ManagementTaskApi/ManagementTaskApi/bin/Debug/net8.0
+/Back/ManagementTaskApi/ManagementTaskApplication/bin/Debug/net8.0
+/Back/ManagementTaskApi/ManagementTaskDomain/bin/Debug/net8.0
+/Back/ManagementTaskApi/ManagementTaskInfraestructure/bin/Debug/net8.0
+/Back/ManagementTaskApi/ManagementTask.Tests/bin/Debug/net8.0
+/Back/ManagementTaskApi/ManagementTask.Tests/obj
