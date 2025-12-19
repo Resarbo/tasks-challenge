@@ -13,3 +13,42 @@
 /Back/ManagementTaskApi/ManagementTaskInfraestructure/bin/Debug/net8.0
 /Back/ManagementTaskApi/ManagementTask.Tests/bin/Debug/net8.0
 /Back/ManagementTaskApi/ManagementTask.Tests/obj
+
+/Front/TasksApp/node_modules/
+/Front/TasksApp/npm-debug.log*
+/Front/TasksApp/yarn-debug.log*
+/Front/TasksApp/yarn-error.log*
+
+# Metro
+/Front/TasksApp/.bundle/
+
+# OS
+/Front/TasksApp/.DS_Store
+/Front/TasksApp/Thumbs.db
+
+# Env
+/Front/TasksApp/.env
+/Front/TasksApp/.env.*
+
+# Android
+/Front/TasksApp/android/.gradle/
+/Front/TasksApp/android/app/build/
+/Front/TasksApp/android/build/
+/Front/TasksApp/android/.idea/
+/Front/TasksApp/android/local.properties
+/Front/TasksApp/android/app/.cxx/
+/Front/TasksApp/android/gradle.properties
+
+# iOS
+/Front/TasksApp/ios/Pods/
+/Front/TasksApp/ios/build/
+/Front/TasksApp/ios/DerivedData/
+/Front/TasksApp/ios/*.xcworkspace
+/Front/TasksApp/ios/.xcuserdata/
+
+# IDE
+/Front/TasksApp/.vscode/
+/Front/TasksApp/.idea/
+
+# Coverage
+/Front/TasksApp/coverage/
